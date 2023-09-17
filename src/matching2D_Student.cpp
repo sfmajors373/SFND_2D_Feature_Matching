@@ -21,6 +21,8 @@ void matchDescriptors(std::vector<cv::KeyPoint> &kPtsSource, std::vector<cv::Key
     // configure matcher
     bool crossCheck = false;
     cv::Ptr<cv::DescriptorMatcher> matcher;
+    cv::Mat descSourceFloat = descSource.clone();
+    cv::Mat descRefFloat = descRef.clone();
 
     if (matcherType.compare("MAT_BF") == 0)
     {
@@ -29,6 +31,11 @@ void matchDescriptors(std::vector<cv::KeyPoint> &kPtsSource, std::vector<cv::Key
     }
     else if (matcherType.compare("MAT_FLANN") == 0)
     {
+        if (descSource.type() != CV_32F)
+        {
+            descSourceFloat.convertTo(descSourceFloat, CV_32F);
+            descRefFloat.convertTo(descRefFloat, CV_32F);
+        }
         matcher = cv::DescriptorMatcher::create(cv::DescriptorMatcher::FLANNBASED);
     }
 
