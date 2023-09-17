@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=115 keypoints in 11.4796 ms
+In rectangle: 17
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.55732 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=98 keypoints in 8.86875 ms
+In rectangle: 14
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.664489 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 12
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=113 keypoints in 10.09 ms
+In rectangle: 18
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.65712 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 12
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=121 keypoints in 10.2055 ms
+In rectangle: 21
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.7195 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 15
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=160 keypoints in 14.251 ms
+In rectangle: 26
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.80978 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 18
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=383 keypoints in 19.4915 ms
+In rectangle: 43
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.6084 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=85 keypoints in 9.68909 ms
+In rectangle: 18
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.51609 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 20
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=210 keypoints in 11.2961 ms
+In rectangle: 31
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.58049 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 15
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=171 keypoints in 10.2361 ms
+In rectangle: 26
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.56715 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=281 keypoints in 12.9299 ms
+In rectangle: 34
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.51265 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 22
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image

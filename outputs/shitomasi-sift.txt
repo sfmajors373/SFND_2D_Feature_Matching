@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 14.3549 ms
+In rectangle: 125
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 11.0962 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 7.82435 ms
+In rectangle: 118
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.51716 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 112
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 9.73826 ms
+In rectangle: 123
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.18325 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 109
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 10.2782 ms
+In rectangle: 120
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.16141 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 104
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 8.9406 ms
+In rectangle: 120
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.02917 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 103
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 7.58305 ms
+In rectangle: 113
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.00446 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 99
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 7.43878 ms
+In rectangle: 114
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 8.83457 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 101
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 9.60266 ms
+In rectangle: 123
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.54451 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 97
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 7.32538 ms
+In rectangle: 111
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.34401 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 107
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 9.05437 ms
+In rectangle: 112
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 10.2688 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 97
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image

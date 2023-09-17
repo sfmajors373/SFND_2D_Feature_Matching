@@ -1,0 +1,4 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Sift detection with n=1438 keypoints in 155.835 ms
+In rectangle: 137
+#2 : DETECT KEYPOINTS done

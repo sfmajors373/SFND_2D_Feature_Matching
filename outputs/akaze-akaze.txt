@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Akaze detection with n=1351 keypoints in 211.015 ms
+In rectangle: 162
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 269.514 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Akaze detection with n=1327 keypoints in 207.95 ms
+In rectangle: 157
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 289.373 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 135
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Akaze detection with n=1311 keypoints in 184.478 ms
+In rectangle: 159
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 111.847 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 138
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Akaze detection with n=1351 keypoints in 107.188 ms
+In rectangle: 154
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 196.391 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 132
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Akaze detection with n=1360 keypoints in 176.758 ms
+In rectangle: 162
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 197.291 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 126
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Akaze detection with n=1347 keypoints in 89.6281 ms
+In rectangle: 163
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 192.791 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 128
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Akaze detection with n=1363 keypoints in 59.136 ms
+In rectangle: 173
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 194.871 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 146
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Akaze detection with n=1331 keypoints in 157.646 ms
+In rectangle: 175
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 109.966 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 147
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Akaze detection with n=1357 keypoints in 126.905 ms
+In rectangle: 175
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 192.647 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 149
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Akaze detection with n=1331 keypoints in 142.612 ms
+In rectangle: 175
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 192.193 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 148
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image

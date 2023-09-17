@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Sift detection with n=1438 keypoints in 194.716 ms
+In rectangle: 137
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.64578 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Sift detection with n=1371 keypoints in 100.538 ms
+In rectangle: 131
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.49615 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 86
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Sift detection with n=1380 keypoints in 87.7543 ms
+In rectangle: 121
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.48917 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 76
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Sift detection with n=1335 keypoints in 66.3159 ms
+In rectangle: 135
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.404 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 72
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Sift detection with n=1305 keypoints in 140.056 ms
+In rectangle: 134
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.45388 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 83
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Sift detection with n=1370 keypoints in 138.947 ms
+In rectangle: 139
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.43718 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 69
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Sift detection with n=1396 keypoints in 136.86 ms
+In rectangle: 136
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.43937 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 75
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Sift detection with n=1382 keypoints in 130.107 ms
+In rectangle: 147
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.43886 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 76
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Sift detection with n=1463 keypoints in 102.972 ms
+In rectangle: 156
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.60281 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 69
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Sift detection with n=1422 keypoints in 140.402 ms
+In rectangle: 135
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.57183 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 87
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image

@@ -54,6 +54,8 @@ void matchDescriptors(std::vector<cv::KeyPoint> &kPtsSource, std::vector<cv::Key
                 matches.push_back(knn_matches[i][0]);
             }
         }
+
+        std::cout << "Number matches: " << matches.size() << std::endl;
     }
 }
 
@@ -188,10 +190,11 @@ void detKeypointsHarris(std::vector<cv::KeyPoint> &keypoints, cv::Mat &img, bool
                 }
             }
 
-        }
-        t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
-        cout << "Harris detection with n=" << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
+        }   
     }
+
+    t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+    cout << "Harris detection with n=" << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
 
     if (bVis)
     {

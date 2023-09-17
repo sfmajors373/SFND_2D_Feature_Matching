@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Orb detection with n=500 keypoints in 6.66526 ms
+In rectangle: 91
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.80207 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Orb detection with n=500 keypoints in 5.92556 ms
+In rectangle: 102
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.37064 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 49
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Orb detection with n=500 keypoints in 5.65466 ms
+In rectangle: 106
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.374611 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 43
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Orb detection with n=500 keypoints in 5.11046 ms
+In rectangle: 113
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.38215 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 45
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Orb detection with n=500 keypoints in 7.76078 ms
+In rectangle: 109
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.695379 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 59
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Orb detection with n=500 keypoints in 5.4437 ms
+In rectangle: 124
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.379389 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 53
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Orb detection with n=500 keypoints in 5.14273 ms
+In rectangle: 129
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.5342 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 76
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Orb detection with n=500 keypoints in 5.65644 ms
+In rectangle: 127
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.44028 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 67
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Orb detection with n=500 keypoints in 5.28383 ms
+In rectangle: 124
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.54694 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 83
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Orb detection with n=500 keypoints in 5.54689 ms
+In rectangle: 125
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.38208 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 65
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image

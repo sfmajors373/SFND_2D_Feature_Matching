@@ -1,0 +1,1 @@
+Based on the cumulative information gathered from this analysis (located in './MP 7 8 9.pdf') I would recommend the fast detector with the orb, brief, or brisk descriptors.  Fast is the fastest (so it is aptly named), but also offers the most keypoints and keypoint matches in that short amount of time.

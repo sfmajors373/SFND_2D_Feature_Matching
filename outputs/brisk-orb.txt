@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Brisk detection with n=2757 keypoints in 325.868 ms
+In rectangle: 254
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.98464 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Brisk detection with n=2777 keypoints in 365.738 ms
+In rectangle: 274
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 9.29843 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 155
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Brisk detection with n=2741 keypoints in 322.725 ms
+In rectangle: 276
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.32191 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 167
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Brisk detection with n=2735 keypoints in 328.124 ms
+In rectangle: 275
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.25476 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 155
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Brisk detection with n=2757 keypoints in 322.142 ms
+In rectangle: 293
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.49138 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 161
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Brisk detection with n=2695 keypoints in 324.938 ms
+In rectangle: 275
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.68991 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 156
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Brisk detection with n=2715 keypoints in 338.601 ms
+In rectangle: 289
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.25502 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 181
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Brisk detection with n=2628 keypoints in 332.538 ms
+In rectangle: 268
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.55985 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 165
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Brisk detection with n=2639 keypoints in 322.093 ms
+In rectangle: 259
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.6217 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 169
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE INTO BUFFER done
+Brisk detection with n=2672 keypoints in 313.203 ms
+In rectangle: 250
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.2776 ms
+#3 : EXTRACT DESCRIPTORS done
+Number matches: 170
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
